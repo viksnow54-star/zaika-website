@@ -1,0 +1,1 @@
+Open index.html in a browser. Before publishing, add the address, ordering/reservation links, real photos, and confirm menu prices.
