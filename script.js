@@ -1,7 +1,10 @@
-const toggle=document.querySelector('.menu-toggle');const nav=document.querySelector('.site-header nav');
-toggle.addEventListener('click',()=>{const open=nav.classList.toggle('open');toggle.setAttribute('aria-expanded',String(open));toggle.textContent=open?'✕':'☰';});
-document.querySelectorAll('.site-header nav a').forEach(a=>a.addEventListener('click',()=>nav.classList.remove('open')));
-document.querySelectorAll('.filters button').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('.filters button').forEach(b=>b.classList.remove('active'));button.classList.add('active');const filter=button.dataset.filter;document.querySelectorAll('.dish-card').forEach(card=>card.classList.toggle('is-hidden',filter!=='all'&&!card.dataset.category.split(' ').includes(filter)));}));
+let allMenu=[],category='All',quick='all';
+const grid=document.getElementById('menu-grid'),tabs=document.getElementById('category-tabs'),search=document.getElementById('menu-search');
+fetch('menu.json').then(r=>r.json()).then(data=>{allMenu=data;buildTabs();render();});
+function buildTabs(){const cats=['All',...new Set(allMenu.map(x=>x.category))];tabs.innerHTML=cats.map(c=>`<button data-cat="${c}" class="${c==='All'?'active':''}">${c}</button>`).join('');tabs.querySelectorAll('button').forEach(b=>b.onclick=()=>{category=b.dataset.cat;tabs.querySelectorAll('button').forEach(x=>x.classList.remove('active'));b.classList.add('active');render();});}
+function render(){const q=(search.value||'').toLowerCase();const items=allMenu.filter(x=>(category==='All'||x.category===category)&&(!q||[x.name,x.description,x.category].join(' ').toLowerCase().includes(q))&&(quick==='all'||(quick==='vegetarian'&&x.vegetarian)||(quick==='spicy'&&x.spicy)||(quick==='featured'&&x.featured)));grid.innerHTML=items.map(x=>`<article class="menu-item"><div class="top"><h3>${x.name}</h3><span class="price">${x.price}</span></div>${x.description?`<p>${x.description}</p>`:''}<div class="badges">${x.vegetarian?'<span class="badge">🌱 Vegetarian</span>':''}${x.vegan?'<span class="badge">Vegan option</span>':''}${x.spicy?'<span class="badge">🌶 Spicy</span>':''}${x.featured?'<span class="badge">★ Zaika Favorite</span>':''}</div></article>`).join('')||'<p>No dishes match your search.</p>';}
+search.addEventListener('input',render);
+document.querySelectorAll('.quick-filters button').forEach(b=>b.onclick=()=>{quick=b.dataset.quick;document.querySelectorAll('.quick-filters button').forEach(x=>x.classList.remove('active'));b.classList.add('active');render();});
+const toggle=document.querySelector('.menu-toggle'),links=document.querySelector('.links');toggle.onclick=()=>{links.classList.toggle('open');toggle.textContent=links.classList.contains('open')?'✕':'☰'};document.querySelectorAll('.links a').forEach(a=>a.onclick=()=>links.classList.remove('open'));
 document.getElementById('year').textContent=new Date().getFullYear();
-const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting)entry.target.classList.add('visible')}),{threshold:.12});
-document.querySelectorAll('.reveal').forEach(element=>observer.observe(element));
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible')}),{threshold:.12});document.querySelectorAll('.reveal').forEach(el=>io.observe(el));

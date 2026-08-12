@@ -1,0 +1,899 @@
+[
+  {
+    "category": "Soups & Salads",
+    "name": "Soup of the Day",
+    "price": "$6.00",
+    "description": ""
+  },
+  {
+    "category": "Soups & Salads",
+    "name": "Green Salad",
+    "price": "$6.00",
+    "description": ""
+  },
+  {
+    "category": "Soups & Salads",
+    "name": "Chef's Salad",
+    "price": "$10.00",
+    "description": "Add Protein: Chicken +$6 / Salmon +$8"
+  },
+  {
+    "category": "Appetizers",
+    "name": "Samosa",
+    "price": "$8.00",
+    "description": "Crispy pastry filled with potatoes, green peas & spice.",
+    "vegetarian": true
+  },
+  {
+    "category": "Appetizers",
+    "name": "Onion Pakoras",
+    "price": "$9.00",
+    "description": "Fresh sliced onions and gram flour fritters.",
+    "vegetarian": true
+  },
+  {
+    "category": "Appetizers",
+    "name": "Paneer Pakoras",
+    "price": "$10.00",
+    "description": "Homemade cheese coated with dry spices gram flour.",
+    "vegetarian": true
+  },
+  {
+    "category": "Appetizers",
+    "name": "Chicken Wings Cooked In Clay Oven",
+    "price": "$11.00",
+    "description": ""
+  },
+  {
+    "category": "Appetizers",
+    "name": "Tandoori Momo's",
+    "price": "$12.00",
+    "description": "Chicken and vegetable dumplings cooked in clay oven."
+  },
+  {
+    "category": "Appetizers",
+    "name": "Fish Amritsari",
+    "price": "$14.00",
+    "description": "Lightly battered fish fry seasoned with Indian spices."
+  },
+  {
+    "category": "From Tandoor Clay Oven",
+    "name": "Paneer Tikka",
+    "price": "$20.00",
+    "description": "Cubes of homemade cheese, diced onion, peppers marinated with yogurt and spices.",
+    "vegetarian": true
+  },
+  {
+    "category": "From Tandoor Clay Oven",
+    "name": "Tandoori Mushroom",
+    "price": "$18.00",
+    "description": "Achari marinade cooked to golden perfection.",
+    "vegetarian": true
+  },
+  {
+    "category": "From Tandoor Clay Oven",
+    "name": "Chicken Tikka",
+    "price": "$24.00",
+    "description": "Boneless chicken breast marinated in yogurt, ginger, garlic and freshly ground spices."
+  },
+  {
+    "category": "From Tandoor Clay Oven",
+    "name": "Malai Chicken Kebab",
+    "price": "$24.00",
+    "description": "Chicken breast marinated in mild spices & cream cheese."
+  },
+  {
+    "category": "From Tandoor Clay Oven",
+    "name": "Lamb Seekh Kebab",
+    "price": "$24.00",
+    "description": "Skewers of minced lamb rolls."
+  },
+  {
+    "category": "From Tandoor Clay Oven",
+    "name": "Tandoori Salmon",
+    "price": "$28.00",
+    "description": "Salmon fillet marinated in a spice infused yogurt sauce and cooked over live charcoal."
+  },
+  {
+    "category": "From Tandoor Clay Oven",
+    "name": "Tandoori Chicken Half/Full",
+    "price": "$18.00 / $26.00",
+    "description": "Whole chicken marinated in yogurt, ginger, garlic, and freshly ground spices."
+  },
+  {
+    "category": "From Tandoor Clay Oven",
+    "name": "Lamb Chops",
+    "price": "$30.00",
+    "description": "Marinated in Indian spices and cooked in tandoori oven.",
+    "featured": true
+  },
+  {
+    "category": "From Tandoor Clay Oven",
+    "name": "Tandoori Shrimp",
+    "price": "$28.00",
+    "description": "Jumbo shrimp marinated in yogurt with spices and garlic."
+  },
+  {
+    "category": "Special Appetizers",
+    "name": "Samosa Chaat",
+    "price": "$11.00",
+    "description": "Popular Indian street food with samosa, chickpeas, yogurt, chutneys, topped with onions, tomato's & sev.",
+    "vegetarian": true
+  },
+  {
+    "category": "Special Appetizers",
+    "name": "Gobi Manchurian",
+    "price": "$14.00",
+    "description": "Crispy battered cauliflower florets with onion, bell peppers & soy sauce.",
+    "vegetarian": true
+  },
+  {
+    "category": "Special Appetizers",
+    "name": "Gobi / Chicken / Shrimp 65",
+    "price": "$14.00 / $15.00 / $16.00",
+    "description": "A spicy Hyderabadi appetizer with choice of protein, battered & tempered with mustard seeds, curry leaves, tossed in tangy sauce."
+  },
+  {
+    "category": "Special Appetizers",
+    "name": "Chilly Paneer / Chilly Chicken / Chilly Shrimp",
+    "price": "$14.00 / $15.00 / $16.00",
+    "description": "Lightly battered protein tossed with onion, bell peppers, hot chilies, garlic & soy sauce."
+  },
+  {
+    "category": "Special Appetizers",
+    "name": "Chicken Lollipop",
+    "price": "$14.00",
+    "description": "Crispy & juicy battered chicken drumettes, served with Schezwan chutney."
+  },
+  {
+    "category": "Special Appetizers",
+    "name": "Calamari Pakora",
+    "price": "$15.00",
+    "description": "Calamari and gram flour fritters."
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Tandoori Cornish Hen",
+    "price": "$25.00",
+    "description": "Whole Cornish hen marinated in yogurt, ginger, garlic & freshly ground spices."
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Nawabi Chicken Tikka",
+    "price": "$22.00",
+    "description": "Boneless chicken thigh marinated in Indian spices & cooked in tandoori oven."
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Tandoori Pomfret",
+    "price": "$32.00",
+    "description": "Overnight marinated spiced Atlantic pomfret cooked in clay oven."
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Malwani Fish Fry",
+    "price": "$20.00",
+    "description": "Pan fried pomfret with Indian herbs and fresh coconut."
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Chole Bhuture",
+    "price": "$16.00",
+    "description": "Chickpeas curry served with a fluffy deep-fried flat bread.",
+    "vegetarian": true
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Goat Masala",
+    "price": "$24.00",
+    "description": "Bone-in goat meat cooked in ginger, garlic, onion & tomato gravy."
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Goat Biryani",
+    "price": "$22.00",
+    "description": "Bone-in goat cooked with herbs & long-grain basmati rice garnished with crispy onion's."
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Tandoori Biryani",
+    "price": "$22.00",
+    "description": "Tandoori chicken cooked in herbs & long grain basmati rice garnished with crispy onions & served with raita."
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Dhaba Chicken Curry",
+    "price": "$22.00",
+    "description": "Dhaba style chicken bone-in cooked in onion, tomatoes, whole & ground spices & herbs."
+  },
+  {
+    "category": "Special Entrees",
+    "name": "Veg Fried Rice",
+    "price": "$15.00",
+    "description": "Add Protein: Chicken +$4 / Shrimp +$6",
+    "vegetarian": true
+  },
+  {
+    "category": "Chicken Entrees",
+    "name": "Chicken Tikka Masala",
+    "price": "$22.00",
+    "description": "Boneless chicken simmered in fenugreek creamy tomato cashew sauce, onions & bell pepper.",
+    "featured": true
+  },
+  {
+    "category": "Chicken Entrees",
+    "name": "Zaika Malabari Chicken",
+    "price": "$22.00",
+    "description": "A southern coastal chicken curry with coconut."
+  },
+  {
+    "category": "Chicken Entrees",
+    "name": "Butter Chicken",
+    "price": "$22.00",
+    "description": "Boneless chicken marinated & cooked in creamy tomato cashew sauce.",
+    "featured": true
+  },
+  {
+    "category": "Chicken Entrees",
+    "name": "Kerala Pepper Chicken",
+    "price": "$22.00",
+    "description": "Chicken cooked in black pepper & curry leaves."
+  },
+  {
+    "category": "Chicken Entrees",
+    "name": "Chicken Shahi Korma",
+    "price": "$22.00",
+    "description": "Boneless chicken cooked in rich creamy cashew sauce."
+  },
+  {
+    "category": "Chicken Entrees",
+    "name": "Chicken Karahi",
+    "price": "$22.00",
+    "description": "Tender chicken pieces cooked with onions, green peppers, tomatoes and spices in dry sauce."
+  },
+  {
+    "category": "Chicken Entrees",
+    "name": "Chicken Vindaloo",
+    "price": "$22.00",
+    "description": "Boneless chicken and potatoes cooked in spicy vinegar sauce.",
+    "spicy": true
+  },
+  {
+    "category": "Chicken Entrees",
+    "name": "Saag Chicken",
+    "price": "$22.00",
+    "description": "Chicken cooked with spinach, garlic and a blend of spices."
+  },
+  {
+    "category": "Chicken Entrees",
+    "name": "Mango Chicken Curry",
+    "price": "$22.00",
+    "description": "Boneless chicken cooked in cashew sauce, mango puree and spices."
+  },
+  {
+    "category": "Lamb Entrees",
+    "name": "Mughlai Gosht",
+    "price": "$24.00",
+    "description": "Traditional lamb cooked in Mughlai gravy, aromatic spices, yogurt, cream, nuts & onion."
+  },
+  {
+    "category": "Lamb Entrees",
+    "name": "Lamb Korma",
+    "price": "$23.00",
+    "description": "Boneless lamb cooked in creamy cashew sauce."
+  },
+  {
+    "category": "Lamb Entrees",
+    "name": "Lamb Rogan Josh",
+    "price": "$23.00",
+    "description": "Lamb cooked with ginger onion tomato sauce.",
+    "featured": true
+  },
+  {
+    "category": "Lamb Entrees",
+    "name": "Lamb Vindaloo",
+    "price": "$23.00",
+    "description": "Lamb and potatoes cooked in spicy vinegar sauce.",
+    "spicy": true
+  },
+  {
+    "category": "Lamb Entrees",
+    "name": "Lamb Saag",
+    "price": "$23.00",
+    "description": "Lamb cooked in spinach, tomato and spices."
+  },
+  {
+    "category": "Lamb Entrees",
+    "name": "Kadai Gosht",
+    "price": "$23.00",
+    "description": "Tender pieces of lamb cooked in tomato, onion, green peppers and spices in dry gravy."
+  },
+  {
+    "category": "Lamb Entrees",
+    "name": "Lamb Chop Masala",
+    "price": "$33.00",
+    "description": "Marinated lamb chops cooked with onion, tomato, ginger, garlic."
+  },
+  {
+    "category": "Seafood Entrees",
+    "name": "Shrimp Tikka Masala",
+    "price": "$24.00",
+    "description": "Shrimp simmered in fenugreek leaves, creamy tomato cashew sauce, onions and bell peppers."
+  },
+  {
+    "category": "Seafood Entrees",
+    "name": "Malabari Fish or Shrimp Curry",
+    "price": "$24.00",
+    "description": "Coastal seafood curry with coconut milk & ground coriander."
+  },
+  {
+    "category": "Seafood Entrees",
+    "name": "Kerala Pepper Shrimp",
+    "price": "$24.00",
+    "description": "Shrimp cooked in black pepper curry leaves."
+  },
+  {
+    "category": "Seafood Entrees",
+    "name": "Shrimp Vindaloo",
+    "price": "$24.00",
+    "description": "Shrimp and potatoes cooked in spicy vinegar sauce.",
+    "spicy": true
+  },
+  {
+    "category": "Seafood Entrees",
+    "name": "Shrimp or Fish Malai Curry",
+    "price": "$24.00",
+    "description": "Cooked in onion and creamy cashew nut sauce."
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Aloo Gobi (V)",
+    "price": "$20.00",
+    "description": "Cauliflower and potatoes sauteed with fresh herbs.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Palak Paneer",
+    "price": "$22.00",
+    "description": "Spinach cooked with onion, tomato, ginger, garlic, homemade cheese, and spices.",
+    "vegetarian": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Paneer Tikka Masala",
+    "price": "$22.00",
+    "description": "Homemade Indian cheese simmered in fenugreek creamy tomato sauce, onions & bell pepper.",
+    "vegetarian": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Paneer Makhani",
+    "price": "$22.00",
+    "description": "Homemade Indian cheese cooked in creamy tomato and cashew sauce.",
+    "vegetarian": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Yellow Dal (V)",
+    "price": "$20.00",
+    "description": "Yellow lentils tempered with garlic and curry leaves.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Dal Makhani",
+    "price": "$20.00",
+    "description": "Black lentils cooked on a slow fire with a blend of mild spices flavored with butter.",
+    "vegetarian": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Malai Kofta",
+    "price": "$21.00",
+    "description": "Vegetable and cheese dumplings in a mace-cardamom flavored sauce.",
+    "vegetarian": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Shahi Veg Korma",
+    "price": "$21.00",
+    "description": "Fresh veggies cooked in a rich creamy cashew sauce.",
+    "vegetarian": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Karahi Paneer",
+    "price": "$22.00",
+    "description": "Chunks of paneer tossed with fresh ground spices and bell peppers.",
+    "vegetarian": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Mushroom Makhani",
+    "price": "$20.00",
+    "description": "Fresh mushroom sauteed in butter & wine, cooked in creamy tomato and cashew sauce.",
+    "vegetarian": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Channa Masala (V)",
+    "price": "$20.00",
+    "description": "Chickpeas simmered with garam masala and roasted spices.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Baingan Bharta (V)",
+    "price": "$20.00",
+    "description": "Smokey, roasted eggplants stewed with onions, and fresh herbs.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Mutter Paneer",
+    "price": "$21.00",
+    "description": "Homemade cheese, green peas cooked in onion, tomato sauce and spices.",
+    "vegetarian": true
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "name": "Bhindi Do Pyaza (V)",
+    "price": "$20.00",
+    "description": "Okra cooked with onions, tomatoes, spices and herbs.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Biryani",
+    "name": "Chicken Biryani",
+    "price": "$22.00",
+    "description": "Choice of protein cooked with herbs and long grain basmati rice garnished with crispy onions.",
+    "featured": true
+  },
+  {
+    "category": "Biryani",
+    "name": "Lamb Biryani",
+    "price": "$24.00",
+    "description": "Choice of protein cooked with herbs and long grain basmati rice garnished with crispy onions."
+  },
+  {
+    "category": "Biryani",
+    "name": "Shrimp Biryani",
+    "price": "$24.00",
+    "description": "Choice of protein cooked with herbs and long grain basmati rice garnished with crispy onions."
+  },
+  {
+    "category": "Biryani",
+    "name": "Vegetable Biryani",
+    "price": "$20.00",
+    "description": "Choice of protein cooked with herbs and long grain basmati rice garnished with crispy onions.",
+    "vegetarian": true
+  },
+  {
+    "category": "Biryani",
+    "name": "Peas Pulao",
+    "price": "$16.00",
+    "description": "Seasoned basmati rice with peas.",
+    "vegetarian": true
+  },
+  {
+    "category": "Biryani",
+    "name": "Kashmiri Pulao",
+    "price": "$16.00",
+    "description": "Seasoned basmati rice with cashew & raisins.",
+    "vegetarian": true
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Butter Naan",
+    "price": "$4.00",
+    "description": "Traditional handmade flatbread, made with white flour and butter.",
+    "vegetarian": true
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Garlic Naan",
+    "price": "$5.00",
+    "description": "Naan topped with cilantro and garlic.",
+    "vegetarian": true,
+    "featured": true
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Onion Kulcha",
+    "price": "$5.00",
+    "description": "Naan stuffed with spiced onion & cilantro.",
+    "vegetarian": true
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Paneer Naan / Cheese Naan",
+    "price": "$7.00",
+    "description": "Stuffed with seasoned homemade cheese / cheddar cheese.",
+    "vegetarian": true
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Kashmiri Naan",
+    "price": "$6.00",
+    "description": "Stuffed with mixed nuts, raisins, and coconut.",
+    "vegetarian": true
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Tandoori Roti",
+    "price": "$4.00",
+    "description": "Traditional homemade whole wheat flatbread.",
+    "vegetarian": true
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Tandoori Paratha",
+    "price": "$5.00",
+    "description": "Multi-layered whole wheat bread with butter.",
+    "vegetarian": true
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Keema Naan",
+    "price": "$8.00",
+    "description": "Naan stuffed with minced spiced lamb."
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Tawa Aloo Paratha",
+    "price": "$6.00",
+    "description": "Stuffed with spiced potato.",
+    "vegetarian": true
+  },
+  {
+    "category": "Breads Baked in Tandoor",
+    "name": "Bullet Naan",
+    "price": "$5.00",
+    "description": "Naan topped with spicy green chillies.",
+    "vegetarian": true,
+    "spicy": true
+  },
+  {
+    "category": "Sides",
+    "name": "Pickle",
+    "price": "$2.00",
+    "description": ""
+  },
+  {
+    "category": "Sides",
+    "name": "Papadam",
+    "price": "$4.00",
+    "description": "Indian lentil wafers served with chutneys."
+  },
+  {
+    "category": "Sides",
+    "name": "Mango Chutney",
+    "price": "$3.00",
+    "description": "Delicious sweetened and spiced mango chutney."
+  },
+  {
+    "category": "Sides",
+    "name": "Raita",
+    "price": "$3.00",
+    "description": "Made with yogurt, cucumber, tomato and cilantro."
+  },
+  {
+    "category": "Sides",
+    "name": "Extra Basmati Rice",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "Dessert",
+    "name": "Gulab Jamun",
+    "price": "$7.00",
+    "description": "Milk dumplings in rose syrup.",
+    "vegetarian": true
+  },
+  {
+    "category": "Dessert",
+    "name": "Carrot Halwa",
+    "price": "$7.00",
+    "description": "Indian carrot pudding with nuts & raisins.",
+    "vegetarian": true
+  },
+  {
+    "category": "Dessert",
+    "name": "Rasmalai",
+    "price": "$7.00",
+    "description": "Poached cheese patties in cardamom flavor sauce.",
+    "vegetarian": true
+  },
+  {
+    "category": "Dessert",
+    "name": "Kesar Pista Kulfi",
+    "price": "$7.00",
+    "description": "Homemade ice cream with saffron & pistachio.",
+    "vegetarian": true
+  },
+  {
+    "category": "Dessert",
+    "name": "Saffron Kheer",
+    "price": "$7.00",
+    "description": "Rice & milk pudding garnished with nuts & raisins.",
+    "vegetarian": true
+  },
+  {
+    "category": "Dessert",
+    "name": "Mango Kulfi",
+    "price": "$7.00",
+    "description": "Homemade mango ice cream.",
+    "vegetarian": true
+  },
+  {
+    "category": "Beverages",
+    "name": "Mango Lassi",
+    "price": "$6.00",
+    "description": ""
+  },
+  {
+    "category": "Beverages",
+    "name": "Iced Tea (Unsweetened)",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "Beverages",
+    "name": "Zaika Masala Chai",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "Beverages",
+    "name": "Hot Tea",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "Beverages",
+    "name": "Sodas",
+    "price": "$3.00",
+    "description": ""
+  },
+  {
+    "category": "Beverages",
+    "name": "Thums Up / Limca",
+    "price": "$4.50",
+    "description": ""
+  },
+  {
+    "category": "Beverages",
+    "name": "Juice",
+    "price": "$4.50",
+    "description": ""
+  },
+  {
+    "category": "Beverages",
+    "name": "Bottled Water (Small)",
+    "price": "$4.00",
+    "description": ""
+  },
+  {
+    "category": "Beverages",
+    "name": "Bottled Water (Large)",
+    "price": "$7.00",
+    "description": ""
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Mint Lemonade",
+    "price": "$7.99",
+    "description": ""
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Water Melon Cucumber",
+    "price": "$7.99",
+    "description": "Home made fresh watermelon juice, mint, cucumber and citrus. Gluten free, vegan, vegetarian.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Bengali Lasoni Lobster",
+    "price": "$21.99",
+    "description": "Tender Maine lobster claw meat tossed with fresh garlic onions bell peppers with aromatic spices served with refreshing mint chutney.",
+    "featured": true
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Mangalore Tandoori Sea Scallops",
+    "price": "$19.99",
+    "description": "Jumbo wild caught North Atlantic sea scallops marinated with exotic Indian spices and home made yogurt cooked in traditional clay oven and served with homemade mint chutney.",
+    "featured": true
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Pondicherry Style Calamari",
+    "price": "$15.99",
+    "description": "South Indian coastal seafood specialty calamari marinated with exotic herbs and spices with a touch of coconut milk, citrus juice, chickpeas' bater fried and served with tomato chutney."
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Charred Malabar Octupus",
+    "price": "$18.99",
+    "description": "Octopus marinated with Indian spices, herbs and yogurt charred served with tamarind chutney."
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Chennai Mussels in Coconut Garlic Sauce",
+    "price": "$19.99",
+    "description": "South Indian style. Mussels tossed fresh garlic, curry leaf aromatic Indian spices and cilantro finished with touch of coconut milk."
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Middle Neck Clams in Coconut Garlic Sauce",
+    "price": "$19.99",
+    "description": "South Indian style middle neck clams tossed fresh garlic, curry leaf aromatic Indian spices and cilantro finished with touch of coconut milk."
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Cetina'd Crab Cakes GF",
+    "price": "$14.99",
+    "description": "South Indian delicacy from chetinadu cuisine. Lump crab meet mixed with potato fresh coconut and aromatic Indian herbs and spices, pan fried served with homemade mango chutney."
+  },
+  {
+    "category": "Chef's Signature Collection",
+    "name": "Tandoori Chicken Wings",
+    "price": "$14.99",
+    "description": "Young tender free range chicken wings marinated for 48 hrs. with homemade yogurt and spices with fine herbs cooked in the traditional charcoal clay oven."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Vegetable Curry (V)",
+    "price": "$12.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Paneer Makhani",
+    "price": "$14.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "vegetarian": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Shahi Veg Korma",
+    "price": "$12.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "vegetarian": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Palak Paneer",
+    "price": "$12.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "vegetarian": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Channa Masala (V)",
+    "price": "$12.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Malai Kofta",
+    "price": "$12.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "vegetarian": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Yellow Daal (V)",
+    "price": "$12.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Channa Saag (V)",
+    "price": "$12.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "vegetarian": true,
+    "vegan": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Chicken Tikka Masala",
+    "price": "$14.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Chicken Karahi",
+    "price": "$14.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Chicken Korma",
+    "price": "$14.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Chicken Vindaloo",
+    "price": "$14.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "spicy": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Chicken Saag",
+    "price": "$14.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Tandoori Chicken",
+    "price": "$16.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Lamb Curry",
+    "price": "$16.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Lamb Korma",
+    "price": "$16.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Lamb Saag",
+    "price": "$16.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Lamb Vindaloo",
+    "price": "$16.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "spicy": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Lamb Tikka Masala",
+    "price": "$16.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Shrimp Malai",
+    "price": "$16.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Shrimp Vindaloo",
+    "price": "$16.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan.",
+    "spicy": true
+  },
+  {
+    "category": "Lunch Menu",
+    "name": "Shrimp Tikka Masala",
+    "price": "$16.00",
+    "description": "Lunch: excluding holidays and weekends. Served with your choice of samosa or soup. Comes with basmati rice and naan."
+  }
+]
