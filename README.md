@@ -1,23 +1,22 @@
-# Zaika Indian Cuisine — Version 2.0
+# Zaika Indian Cuisine — Version 2.1
 
-Production-ready static website for Vercel.
+Deploy-ready static website for GitHub + Vercel.
+
+## Version 2.1 includes
+- New premium hero messaging
+- Authentic Zaika restaurant story
+- Executive Chef / Taj Mahal Hotel background
+- New “Why Choose Zaika” section
+- Vegetarian, vegan and gluten-free positioning
+- Fresh-to-order brand messaging
+- Full searchable digital menu
+- Catering, gallery, map and contact sections
+- Treasure Coast SEO foundation
 
 ## Deploy
-Upload the contents of this folder to the root of the `zaika-website` GitHub repository.
-Vercel will redeploy automatically.
+Upload everything inside this folder to the root of your `zaika-website` GitHub repository, replacing the old files.
 
-## Included
-- Real restaurant and catering photography
-- Full searchable digital menu
-- Vegetarian, vegan-option, spicy and favorite filters
-- Treasure Coast branding
-- Port St. Lucie address and Google Map
-- Phone/email/hours
-- Local Restaurant structured data
-- Responsive mobile design
+Suggested commit message:
+`Launch Zaika Version 2.1`
 
-## Before final launch
-- Confirm every menu item and price against the restaurant's final printed menu.
-- Replace the placeholder phone number if 772-123-4598 was only a sample.
-- Add Instagram/Facebook when available.
-- Add an online ordering link when a provider is selected.
+Vercel should deploy automatically after the commit.
